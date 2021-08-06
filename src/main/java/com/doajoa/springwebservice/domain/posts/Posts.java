@@ -1,5 +1,5 @@
 package com.doajoa.springwebservice.domain.posts;
-
+//
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
